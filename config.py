@@ -1,0 +1,2 @@
+TOKEN = "8367817343:AAFkiyIeA6DF4XovAulyNobEQBlq5UeKMFA"
+DB_NAME = "games.db"
